@@ -1,0 +1,15 @@
+INDEX VERSION 1.4+D:\Sriman & Others\Sriman\Sriman Design Patterns\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4003095202.index
+2995724825.index
+2945194846.index
+3408166233.index
+1387758000.index
+3581504557.index
+3660212599.index
+2804503957.index
+1937712783.index
+1606155970.index
+2419957620.index
+3594220251.index
+1877633693.index
+3654196496.index

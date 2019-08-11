@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/websocket-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/el-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ant.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper-el.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/annotations-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-websocket.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/ecj-4.10.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jaspic-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jni.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-tribes.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ha.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-coyote.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util-scan.jar"/>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="55" name="%0" offset="1158" path="%1"/>
+   <linked-el length="55" name="%0" offset="2054" path="%1"/>
+   <linked-el length="8" name="%2" offset="292" path="%3"/>
+   <linked-el length="55" name="%4" offset="1158" path="%1"/>
+   <linked-el length="55" name="%4" offset="2054" path="%1"/>
+   <linked-el length="55" name="%5" offset="1158" path="%1"/>
+   <linked-el length="55" name="%5" offset="2054" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="pageContext" value="%0"/>
+  <alias path="/Lynk/WebContent/lynkservices.jsp" value="%1"/>
+  <alias path="reqNo" value="%2"/>
+  <alias path="pageContext.request" value="%4"/>
+  <alias path="/Lynk/WebContent/hire-info.jsp" value="%3"/>
+  <alias path="pageContext.request.contextPath" value="%5"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

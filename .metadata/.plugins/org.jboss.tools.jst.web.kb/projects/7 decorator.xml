@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/websocket-api.jar"/>
+  <path value="D:/Sriman &amp; Others/Sriman/Sriman Design Patterns/7 decorator/WebContent/WEB-INF/lib/servlet-api-2.5.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/el-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ant.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper-el.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/annotations-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-websocket.jar"/>
+  <path value="D:/Sriman &amp; Others/Sriman/Sriman Design Patterns/7 decorator/WebContent/WEB-INF/lib/validation-api-2.0.1.Final.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/ecj-4.10.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jaspic-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jni.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-tribes.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ha.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-coyote.jar"/>
+  <path value="D:/Sriman &amp; Others/Sriman/Sriman Design Patterns/7 decorator/WebContent/WEB-INF/lib/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="7 decorator"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="7 decorator"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-es.jar"/>
+  <path value="D:/Sriman &amp; Others/Sriman/Sriman Design Patterns/7 decorator/WebContent/WEB-INF/lib/jsp-api-2.2.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util-scan.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="51" name="%0" offset="309" path="%1"/>
+   <linked-el length="25" name="%2" offset="355" path="%3"/>
+   <linked-el length="23" name="%4" offset="467" path="%3"/>
+   <linked-el length="25" name="%5" offset="355" path="%3"/>
+   <linked-el length="20" name="%5" offset="541" path="%3"/>
+   <linked-el length="25" name="%5" offset="423" path="%3"/>
+   <linked-el length="23" name="%6" offset="467" path="%3"/>
+   <linked-el length="20" name="%7" offset="541" path="%3"/>
+   <linked-el length="51" name="%8" offset="309" path="%1"/>
+   <linked-el length="25" name="%9" offset="423" path="%3"/>
+   <linked-el length="51" name="%10" offset="309" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="pageContext" value="%0"/>
+  <alias path="dthPackage.packageName" value="%2"/>
+  <alias path="channel.identityName" value="%4"/>
+  <alias path="dthPackage" value="%5"/>
+  <alias path="channel" value="%6"/>
+  <alias path="dthPackage.amount" value="%7"/>
+  <alias path="pageContext.request" value="%8"/>
+  <alias path="dthPackage.channels" value="%9"/>
+  <alias path="/7 decorator/WebContent/choose-package.jsp" value="%1"/>
+  <alias path="/7 decorator/WebContent/package-details.jsp" value="%3"/>
+  <alias path="pageContext.request.contextPath" value="%10"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

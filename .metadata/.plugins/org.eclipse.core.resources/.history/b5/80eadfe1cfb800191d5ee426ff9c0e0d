@@ -1,0 +1,14 @@
+package com.fdp.filter;
+
+import java.io.IOException;
+import java.util.logging.Logger;
+
+import javax.servlet.FilterConfig;
+
+public class UserAgentFilter extends Filter {
+	private FilterConfig fConfig;
+	private Logger logger;
+	
+	
+	
+}

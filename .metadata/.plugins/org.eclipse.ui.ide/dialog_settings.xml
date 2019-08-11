@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\TemplateMethod"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\serialization"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\Pagination"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\Lynk"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\InterceptingFilter"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\IciciLamboard (Builder)"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\flyweight 8"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\DuplicateFormSubmission"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\7 decorator"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\6 AmexProxy"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\5 Session Facade"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\4 AdapterWeb"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\2 factory"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\3 factorymethod"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns\1 singleton"/>
+		<item value="D:\Sriman &amp; Others\Sriman\Sriman Design Patterns"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>
